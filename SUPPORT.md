@@ -3,7 +3,7 @@
 Thanks for using UnitStack.
 
 ## Contact
-Email: supersmallemail@gmail.com
+Email: inkbootllc@gmail.com
 
 ## Before you email (helps me help you)
 Please include:
