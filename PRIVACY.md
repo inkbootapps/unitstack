@@ -10,6 +10,10 @@ UnitStack does not collect, store, or sell your personal data.
 - UnitStack does not collect personal identifiers (name, email, phone number).
 - UnitStack does not track you across apps or websites.
 
+## Network Requests (FX Rates)
+If you use currency conversion, UnitStack may request exchange-rate data from a third-party API.
+These requests may include standard technical information (e.g. IP address) as part of normal internet communication.
+
 ## Data Stored on Your Device
 Your saved conversions and preferences are stored locally on your device so the app can function.
 
