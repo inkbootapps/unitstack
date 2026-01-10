@@ -15,7 +15,7 @@ If you use currency conversion, UnitStack may request exchange-rate data from a 
 These requests may include standard technical information (e.g. IP address) as part of normal internet communication.
 
 ## Data Stored on Your Device
-Your saved conversions and preferences are stored locally on your device so the app can function.
+Your saved unit conversions and preferences are stored locally on your device so the app can function.
 
 ## Third-Party Services
 UnitStack does not use third-party analytics or advertising SDKs.
